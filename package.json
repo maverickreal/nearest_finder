@@ -1,0 +1,19 @@
+{
+  "name": "nearest_finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maverickreal/nearest_finder.git"
+  },
+  "author": "maverick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maverickreal/nearest_finder/issues"
+  },
+  "homepage": "https://github.com/maverickreal/nearest_finder#readme"
+}
